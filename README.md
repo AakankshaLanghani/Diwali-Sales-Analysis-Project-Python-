@@ -1,4 +1,3 @@
-
 # Exploratory Data Analysis (EDA) on Diwali Sales Dataset
 
 Exploratory Data Analysis (EDA) is a core aspect of data science, crucial for understanding data, identifying patterns, anomalies, and deriving actionable insights. This repository demonstrates EDA techniques and methods using Python, applied to the Diwali Sales dataset from Kaggle. This dataset is an excellent starting point for performing EDA and exploring the dynamic field of data science.
@@ -23,12 +22,12 @@ To replicate the analysis and results:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/AakankshaLanghani/Exploratory-Data-Analysis-EDA-Diwali-Sales-Dataset.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd your-repository
+   cd Exploratory-Data-Analysis-EDA-Diwali-Sales-Dataset
    ```
 
 3. **Install the required packages:**
@@ -36,7 +35,8 @@ To replicate the analysis and results:
    pip install -r requirements.txt
    ```
 
-4. **Run the Jupyter notebooks or Python scripts** in the `notebooks` directory to explore the data and view the analysis.
+4. **Run the Jupyter notebook** to explore the data and view the analysis:
+   - [Diwali Sales Analysis Notebook](https://github.com/AakankshaLanghani/Exploratory-Data-Analysis-EDA-Diwali-Sales-Dataset/blob/main/Diwali_Sales_Analysis.ipynb)
 
 ## Contact
 
